@@ -10,7 +10,7 @@ pipeline {
     environment {
         DOCKERHUB_USERNAME = 'pranav2329h'
         DOCKERHUB_REPO = 'auto-rollback-demo'
-        EC2_HOST = '13.232.215.205'
+        EC2_HOST = '13.233.102.47'
         EC2_USER = 'ubuntu'
     }
 
